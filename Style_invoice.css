@@ -1,0 +1,1104 @@
+﻿.solid-button-container {
+    display: flex;
+    position: relative;
+}
+
+.solid-button-button {
+    color: var(--dl-color-gray-white);
+    border: none;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-doubleunit);
+    border-radius: 50px;
+    padding-right: var(--dl-space-space-doubleunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+    background-color: var(--dl-color-primary-100);
+}
+
+.solid-button-root-class-name {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.solid-button-root-class-name1 {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.solid-button-root-class-name2 {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.solid-button-root-class-name3 {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.solid-button-root-class-name4 {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.solid-button-root-class-name5 {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.solid-button-root-class-name6 {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.solid-button-root-class-name7 {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.solid-button-root-class-name8 {
+    top: 33px;
+    left: 695px;
+    position: absolute;
+}
+
+.facturichitantepage-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+.facturichitantepage-top-container {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    position: relative;
+    box-shadow: 5px 5px 10px 0px #d4d4d4,5px 5px 10px 0px #d4d4d4,5px 5px 10px 0px #d4d4d4;
+    align-items: center;
+    animation-name: none;
+    flex-direction: column;
+    animation-delay: 0s;
+    animation-duration: 300ms;
+    animation-direction: normal;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+}
+
+.facturichitantepage-navbar {
+    width: 1081px;
+    display: flex;
+    padding: var(--dl-space-space-doubleunit);
+    position: relative;
+    max-width: 1000px;
+    align-items: center;
+    padding-top: 2em;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-navlink {
+    display: contents;
+}
+
+.facturichitantepage-logo {
+    fill: var(--dl-color-primary-100);
+    color: var(--dl-color-primary-100);
+    width: 166px;
+    height: 34px;
+    font-family: "Merriweather";
+    text-decoration: none;
+}
+
+.facturichitantepage-right-side {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-links-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-navlink1 {
+    color: var(--dl-color-primary-500);
+    font-style: normal;
+    font-weight: 700;
+    margin-right: var(--dl-space-space-doubleunit);
+    text-decoration: none;
+}
+
+.facturichitantepage-navlink2 {
+    color: var(--dl-color-primary-500);
+    font-style: normal;
+    font-weight: 700;
+    margin-right: var(--dl-space-space-doubleunit);
+    text-decoration: none;
+}
+
+.facturichitantepage-burger-menu {
+    display: none;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-burger-menu1 {
+    width: 24px;
+    height: 24px;
+}
+
+.facturichitantepage-mobile-menu {
+    top: 0px;
+    flex: 0 0 auto;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    display: none;
+    padding: var(--dl-space-space-doubleunit);
+    z-index: 100;
+    position: absolute;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #fff;
+}
+
+.facturichitantepage-nav {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.facturichitantepage-top {
+    flex: 0 0 auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--dl-space-space-doubleunit);
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-close-menu {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.facturichitantepage-icon03 {
+    width: 24px;
+    height: 24px;
+}
+
+.facturichitantepage-right-side1 {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.facturichitantepage-links-container1 {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.facturichitantepage-text {
+    margin-bottom: 8px;
+}
+
+.facturichitantepage-text01 {
+    margin-bottom: 8px;
+}
+
+.facturichitantepage-text02 {
+    margin-bottom: 8px;
+}
+
+.facturichitantepage-follow-container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.facturichitantepage-text04 {
+    padding-bottom: var(--dl-space-space-halfunit);
+}
+
+.facturichitantepage-icons-container {
+    width: 100px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-link {
+    display: contents;
+}
+
+.facturichitantepage-icon05 {
+    width: 24px;
+    height: 24px;
+}
+
+.facturichitantepage-link01 {
+    display: contents;
+}
+
+.facturichitantepage-icon07 {
+    width: 24px;
+    height: 24px;
+}
+
+.facturichitantepage-link02 {
+    display: contents;
+}
+
+.facturichitantepage-icon09 {
+    width: 24px;
+    height: 24px;
+}
+
+.facturichitantepage-container01 {
+    top: 177px;
+    left: 36px;
+    width: 653px;
+    height: 412px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    border-color: var(--dl-color-primary-100);
+    border-style: hidden;
+    border-width: 2px;
+    margin-bottom: 9px;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-text05 {
+    top: -44px;
+    fill: var(--dl-color-primary-100);
+    left: 14px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-size: 25px;
+    align-self: center;
+    font-family: "Times New Roman";
+}
+
+.facturichitantepage-container02 {
+    flex: 0 0 auto;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-container03 {
+    flex: 0 0 auto;
+    width: auto;
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-container04 {
+    width: 650px;
+    height: 155px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-color: #350b0b;
+    border-style: hidden;
+    border-width: 2px;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-text06 {
+    fill: var(--dl-color-primary-100);
+    color: var(--dl-color-primary-100);
+    font-size: 18px;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+    margin-left: var(--dl-space-space-unit);
+    border-color: var(--dl-color-primary-100);
+    border-style: hidden;
+    border-width: 1px;
+}
+
+.facturichitantepage-textinput {
+    top: 28px;
+    fill: var(--dl-color-primary-100);
+    left: 145px;
+    color: var(--dl-color-primary-100);
+    width: 435px;
+    height: 35px;
+    position: absolute;
+    border-color: var(--dl-color-theme-neutral-dark);
+    border-style: inset;
+    border-width: 2px;
+}
+
+.facturichitantepage-container05 {
+    width: 100%;
+    height: 155px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-color: #350b0b;
+    border-style: hidden;
+    border-width: 2px;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-text07 {
+    fill: var(--dl-color-primary-100);
+    color: var(--dl-color-primary-100);
+    font-size: 18px;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+    margin-left: var(--dl-space-space-unit);
+    border-color: var(--dl-color-primary-100);
+    border-style: hidden;
+    border-width: 1px;
+}
+
+.facturichitantepage-textinput01 {
+    top: 28px;
+    fill: var(--dl-color-primary-100);
+    left: 145px;
+    color: var(--dl-color-primary-100);
+    width: 435px;
+    height: 35px;
+    position: absolute;
+    border-color: var(--dl-color-theme-neutral-dark);
+    border-style: inset;
+    border-width: 2px;
+}
+
+.facturichitantepage-container06 {
+    width: 100%;
+    height: 155px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-color: #350b0b;
+    border-style: hidden;
+    border-width: 2px;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-text08 {
+    fill: var(--dl-color-primary-100);
+    color: var(--dl-color-primary-100);
+    width: 8.5rem;
+    font-size: 18px;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+    margin-left: var(--dl-space-space-unit);
+    border-color: var(--dl-color-primary-100);
+    border-style: hidden;
+    border-width: 1px;
+}
+
+.facturichitantepage-image {
+    top: 47px;
+    right: -462px;
+    width: 450px;
+    height: 324px;
+    position: absolute;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    object-fit: cover;
+}
+
+.facturichitantepage-container07 {
+    width: 100%;
+    height: 155px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-color: #350b0b;
+    border-style: hidden;
+    border-width: 2px;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-text09 {
+    fill: var(--dl-color-primary-100);
+    color: var(--dl-color-primary-100);
+    font-size: 18px;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+    margin-left: var(--dl-space-space-unit);
+    border-color: var(--dl-color-primary-100);
+    border-style: hidden;
+    border-width: 1px;
+}
+
+.facturichitantepage-textinput02 {
+    top: 28px;
+    fill: var(--dl-color-primary-100);
+    left: 145px;
+    color: var(--dl-color-primary-100);
+    width: 435px;
+    height: 35px;
+    position: absolute;
+    border-color: var(--dl-color-theme-neutral-dark);
+    border-style: inset;
+    border-width: 2px;
+}
+
+.facturichitantepage-container08 {
+    width: 100%;
+    height: 155px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-color: #350b0b;
+    border-style: hidden;
+    border-width: 2px;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-text10 {
+    fill: var(--dl-color-primary-100);
+    color: var(--dl-color-primary-100);
+    font-size: 18px;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+    margin-left: var(--dl-space-space-unit);
+    border-color: var(--dl-color-primary-100);
+    border-style: hidden;
+    border-width: 1px;
+}
+
+.facturichitantepage-textinput03 {
+    top: 28px;
+    fill: var(--dl-color-primary-100);
+    left: 145px;
+    color: var(--dl-color-primary-100);
+    width: 435px;
+    height: 35px;
+    position: absolute;
+    border-style: inset;
+    border-width: 2px;
+}
+
+.facturichitantepage-main {
+    width: 100%;
+    height: 1200px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    padding-left: 1px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.facturichitantepage-container09 {
+    top: 88px;
+    left: 36px;
+    width: 542px;
+    height: 555px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    border-color: var(--dl-color-primary-500);
+    border-style: hidden;
+    border-width: 2px;
+    padding-left: 1px;
+    margin-bottom: 1px;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.facturichitantepage-text11 {
+    top: 41px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text12 {
+    top: 84px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text13 {
+    top: 127px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-textinput04 {
+    top: 79px;
+    left: 177px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput05 {
+    top: 121px;
+    left: 177px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-text14 {
+    top: 0px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-size: 20px;
+    align-self: center;
+    font-family: "Times New Roman";
+}
+
+.facturichitantepage-text15 {
+    top: 170px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text16 {
+    top: 213px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    bottom: 340px;
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text17 {
+    top: 342px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text18 {
+    top: 256px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text19 {
+    top: 299px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text20 {
+    top: 385px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-textinput06 {
+    top: 256px;
+    left: 177px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput07 {
+    top: 162px;
+    left: 177px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput08 {
+    top: 208px;
+    left: 177px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput09 {
+    top: 335px;
+    left: 177px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput10 {
+    top: 378px;
+    left: 177px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput11 {
+    top: 297px;
+    left: 177px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-text21 {
+    top: 432px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text22 {
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    bottom: 52px;
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-textinput12 {
+    top: 421px;
+    left: 176px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput13 {
+    top: 464px;
+    left: 177px;
+    width: 327px;
+    bottom: 29px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput14 {
+    top: 32px;
+    left: 174px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-container10 {
+    left: 31px;
+    width: 556px;
+    bottom: 174px;
+    height: 167px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    border-color: var(--dl-color-primary-500);
+    border-style: hidden;
+    border-width: 2px;
+    padding-left: 1px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.facturichitantepage-text23 {
+    top: 41px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text24 {
+    top: 84px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-textinput15 {
+    top: 34px;
+    left: 181px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput16 {
+    top: 81px;
+    left: 182px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-text25 {
+    top: 0px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-size: 20px;
+    align-self: center;
+    font-family: "Times New Roman";
+}
+
+.facturichitantepage-container11 {
+    top: 669px;
+    left: 33px;
+    width: 542px;
+    height: 182px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    border-color: var(--dl-color-primary-500);
+    border-style: hidden;
+    border-width: 2px;
+    padding-left: 1px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.facturichitantepage-text28 {
+    top: 41px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-text29 {
+    top: 84px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-textinput17 {
+    top: 34px;
+    left: 175px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-textinput18 {
+    top: 82px;
+    left: 175px;
+    width: 327px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-text30 {
+    top: 0px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    position: absolute;
+    font-size: 20px;
+    align-self: center;
+    font-family: "Times New Roman";
+}
+
+.facturichitantepage-text33 {
+    top: 127px;
+    fill: var(--dl-color-primary-100);
+    left: 36px;
+    color: var(--dl-color-primary-100);
+    bottom: 29px;
+    position: absolute;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: 600;
+}
+
+.facturichitantepage-textinput19 {
+    top: 127px;
+    left: 175px;
+    width: 327px;
+    bottom: 12px;
+    height: 33px;
+    position: absolute;
+}
+
+.facturichitantepage-adaugainstocbutton {
+    top: 117px;
+    fill: var(--dl-color-theme-secondary1);
+    left: 596px;
+    color: var(--dl-color-theme-secondary1);
+    position: absolute;
+    background-color: var(--dl-color-primary-700);
+}
+
+.facturichitantepage-adaugainstocbutton1 {
+    fill: var(--dl-color-theme-secondary1);
+    left: 435px;
+    color: var(--dl-color-theme-secondary1);
+    bottom: 153px;
+    position: absolute;
+    background-color: var(--dl-color-primary-700);
+}
+
+.facturichitantepage-image1 {
+    top: 321px;
+    right: 75px;
+    width: 481px;
+    height: 651px;
+    position: absolute;
+    object-fit: cover;
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+}
+
+.facturichitantepage-footer {
+    color: var(--dl-color-gray-white);
+    width: 100%;
+    display: flex;
+    padding: var(--dl-space-space-tripleunit);
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    background-color: var(--dl-color-gray-black);
+}
+
+.facturichitantepage-menu {
+    width: 100%;
+    display: flex;
+    max-width: 1000px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-links-container2 {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-container12 {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 100px;
+    flex-direction: column;
+}
+
+.facturichitantepage-link03 {
+    margin-bottom: var(--dl-space-space-unit);
+    text-decoration: none;
+}
+
+.facturichitantepage-link04 {
+    margin-bottom: var(--dl-space-space-unit);
+    text-decoration: none;
+}
+
+.facturichitantepage-link05 {
+    margin-bottom: var(--dl-space-space-unit);
+    text-decoration: none;
+}
+
+.facturichitantepage-link06 {
+    text-decoration: none;
+}
+
+.facturichitantepage-follow-container1 {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.facturichitantepage-text34 {
+    padding-bottom: var(--dl-space-space-halfunit);
+}
+
+.facturichitantepage-icons-container1 {
+    width: 100px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.facturichitantepage-link07 {
+    display: contents;
+}
+
+.facturichitantepage-icon11 {
+    fill: var(--dl-color-gray-white);
+    width: 24px;
+    height: 24px;
+}
+
+.facturichitantepage-link08 {
+    display: contents;
+}
+
+.facturichitantepage-icon13 {
+    fill: var(--dl-color-gray-white);
+    width: 24px;
+    height: 24px;
+}
+
+.facturichitantepage-link09 {
+    display: contents;
+}
+
+.facturichitantepage-icon15 {
+    fill: var(--dl-color-gray-white);
+    width: 24px;
+    height: 24px;
+}
+
+@media(max-width: 767px) {
+    .facturichitantepage-right-side {
+        display: none;
+    }
+
+    .facturichitantepage-burger-menu {
+        display: flex;
+    }
+
+    .facturichitantepage-main {
+        padding-left: var(--dl-space-space-unit);
+        padding-right: var(--dl-space-space-unit);
+    }
+
+    .facturichitantepage-menu {
+        flex-direction: column;
+    }
+
+    .facturichitantepage-links-container2 {
+        margin-top: var(--dl-space-space-tripleunit);
+        margin-bottom: var(--dl-space-space-tripleunit);
+        justify-content: space-between;
+    }
+}
+
+@media(max-width: 479px) {
+    .facturichitantepage-links-container2 {
+        margin-top: var(--dl-space-space-doubleunit);
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+
+    .facturichitantepage-container12 {
+        height: 100%;
+        align-items: flex-start;
+        margin-left: 50px;
+    }
+
+    .facturichitantepage-link03 {
+        margin-bottom: var(--dl-space-space-halfunit);
+    }
+
+    .facturichitantepage-link04 {
+        margin-bottom: var(--dl-space-space-halfunit);
+    }
+
+    .facturichitantepage-link05 {
+        margin-bottom: var(--dl-space-space-halfunit);
+    }
+
+    .facturichitantepage-link06 {
+        margin-bottom: var(--dl-space-space-halfunit);
+    }
+
+    .facturichitantepage-follow-container1 {
+        margin-left: 0px;
+    }
+}
